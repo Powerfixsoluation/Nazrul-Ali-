@@ -1,0 +1,47 @@
+Index.html <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Power Fix Solution</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>🔌 Power Fix Solution</h1>
+    <p>Reliable Electrical & Mechanical Services</p>
+  </header>
+
+  <section>
+    <h2>About Us</h2>
+    <p>
+      Power Fix Solution provides reliable installation and repairing services for 
+      electrical and mechanical equipment including house wiring, AC, TV, CCTV, 
+      generator, fire safety systems, oven, ice-cube maker, and Pepsi fountain machines.
+    </p>
+  </section>
+
+  <section>
+    <h2>Our Services</h2>
+    <ul>
+      <li>⚡ House Wiring & Electrical Maintenance</li>
+      <li>❄️ AC Installation & Repair</li>
+      <li>📺 TV & CCTV Setup</li>
+      <li>🔥 Fire Safety Systems</li>
+      <li>⚙️ Generator Maintenance</li>
+      <li>🍧 Ice-Cube Maker & Pepsi Fountain Machine</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contact Us</h2>
+    <p><b>Name:</b> Nazrul Ali</p>
+    <p><b>Phone:</b> 6000014413</p>
+    <p><b>Email:</b> najrul25542@gmail.com</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Power Fix Solution | All Rights Reserved</p>
+  </footer>
+</body>
+</html>
